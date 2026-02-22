@@ -1,0 +1,346 @@
+{
+  "main": {
+    "id": "169dc1060ad7b5b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4dec09bc25abee1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b0316a3a29ed402",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Full Stack/Fundamentos API Rest/Untitled.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.22054692019602481,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Untitled"
+            }
+          },
+          {
+            "id": "b69daf9a1fa6184c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Full Stack/Fundamentos API Rest/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "53fd0e697e58432e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Dev Certificate/02-Core Developer Services/Compute Services/🖥️ EC2 for Developers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "🖥️ EC2 for Developers"
+            }
+          },
+          {
+            "id": "e9fba16f116c34d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taller Full Stack/Intro del proyecto.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Intro del proyecto"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78c2391e09e08c85",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d27d6f67dd3bddb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03acdcf36f55ea39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8e471220da9d2f63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "AMI",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3324d0599cb5abd8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5
+  },
+  "right": {
+    "id": "2a61ab203339490c",
+    "type": "split",
+    "children": [
+      {
+        "id": "489deb2993d1a203",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "345df5e10b667b84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Acceso a Datos/DAO y JDBC/Implementación de un DAO a un Modelo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Implementación de un DAO a un Modelo"
+            }
+          },
+          {
+            "id": "b6f0c94002b99738",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Acceso a Datos/DAO y JDBC/Implementación de un DAO a un Modelo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Implementación de un DAO a un Modelo"
+            }
+          },
+          {
+            "id": "a17a17a57ee6d688",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "220fb2087e4721b9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "561a74a7126a3496",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Taller Full Stack/Intro del proyecto.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Intro del proyecto"
+            }
+          },
+          {
+            "id": "e034a32f1328dae5",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Full Stack/Fundamentos API Rest/Untitled.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Untitled"
+            }
+          },
+          {
+            "id": "785ee8add35a7df4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e9fba16f116c34d1",
+  "lastOpenFiles": [
+    "Taller Full Stack/Dia 1 miercoles 18.md",
+    "Autenticación sin estado.md",
+    "**Amazon Machine Images (AMI).md",
+    "_Conceptos de Programación/Manejo de Errores.md",
+    "Taller Full Stack/Intro del proyecto.md",
+    "Cultura General/Versionado Semántico (SemVer).md",
+    "AWS Dev Certificate/03-Development Tools/Infrastructure as Code/🏗️ AWS CloudFormation.md",
+    "Taller Full Stack",
+    "AWS Dev Certificate/05-Monitoring & Debugging/🧪 AWS Trusted Advisor.md",
+    "AWS Dev Certificate/05-Monitoring & Debugging/📋 AWS CloudTrail.md",
+    "AWS Dev Certificate/05-Monitoring & Debugging/🔍 AWS X-Ray.md",
+    "AWS Dev Certificate/05-Monitoring & Debugging/📊 Amazon CloudWatch.md",
+    "AWS Dev Certificate/05-Monitoring & Debugging/Monitoring & Debugging - Overview.md",
+    "AWS Dev Certificate/07-Exam Preparation",
+    "AWS Dev Certificate/06-Hands-On Labs",
+    "AWS Dev Certificate/05-Monitoring & Debugging",
+    "AWS Dev Certificate/04-Advanced Developer Topics/Security for Developers/🤫 AWS Secrets Manager.md",
+    "AWS Dev Certificate/04-Advanced Developer Topics/Security for Developers/🔐 AWS KMS.md",
+    "AWS Dev Certificate/04-Advanced Developer Topics/Security for Developers/👤 Amazon Cognito.md",
+    "AWS Dev Certificate/04-Advanced Developer Topics/Messaging & Integration/🔗 Amazon EventBridge.md",
+    "AWS Dev Certificate/04-Advanced Developer Topics/Messaging & Integration/📢 Amazon SNS.md",
+    "AWS Dev Certificate/04-Advanced Developer Topics/Messaging & Integration/📬 Amazon SQS.md",
+    "AWS Dev Certificate/04-Advanced Developer Topics/Containers & Orchestration/🐳 AWS Elastic Kubernetes Service (EKS).md",
+    "AWS Dev Certificate/04-Advanced Developer Topics/Containers & Orchestration/📦 Amazon ECS.md",
+    "AWS Dev Certificate/04-Advanced Developer Topics/Serverless Development/🔄 AWS Step Functions.md",
+    "AWS Dev Certificate/04-Advanced Developer Topics/Serverless Development/⚡ AWS Lambda Advanced.md",
+    "AWS Dev Certificate/04-Advanced Developer Topics/Serverless Development/🔌 Amazon API Gateway.md",
+    "AWS Dev Certificate/04-Advanced Developer Topics/Advanced Developer Topics - Overview.md",
+    "AWS Dev Certificate/04-Advanced Developer Topics/Serverless Development",
+    "AWS Dev Certificate/04-Advanced Developer Topics/Security for Developers",
+    "AWS Dev Certificate/04-Advanced Developer Topics/Containers & Orchestration",
+    "AWS Dev Certificate/04-Advanced Developer Topics/Messaging & Integration",
+    "AWS Dev Certificate/04-Advanced Developer Topics",
+    "AWS Dev Certificate/03-Development Tools/Infrastructure as Code/📚 AWS SAM.md",
+    "AWS Dev Certificate/02-Core Developer Services/Compute Services/🖥️ EC2 for Developers.md",
+    "AWS Dev Certificate/03-Development Tools/SDKs & CLI"
+  ]
+}

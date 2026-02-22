@@ -1,0 +1,1 @@
+		Ser lo mas preciso en los errores

@@ -1,0 +1,11 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "Docker/Conceptos Base/Conceptos Base.md",
+    "Docker/Construcción/Construcción.md",
+    "Docker/Ejecución/Ejecución.md",
+    "Docker/Orquestación/Orquestación.md",
+    "Docker/Entorno/Entorno.md",
+    "Full Stack/Fundamentos API Rest/Fundamentos API Rest.md"
+  ]
+}

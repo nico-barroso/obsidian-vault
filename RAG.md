@@ -1,0 +1,2 @@
+Retrieval Augmented Generation
+Tenemos múltiples documentos (info en txt, pdf, archivos excel etc) esa info se parte en distintos chunks porque la sllms tienen una ventana de contexto diferente. Esos chuncks se pasan en embeddings, una representación numérica así se selecciona justo los vectores que son similares. El retrieval busca que las partes relevantes (los chunks relevantes) sean seleccionadas y se sintetiza 
