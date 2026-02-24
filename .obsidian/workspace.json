@@ -98,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taller Full Stack/Intro del proyecto.md",
+                "file": "⚙️ DevOps/🐳 Docker/Conceptos Base/Conceptos Base.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -113,7 +113,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Intro del proyecto"
+              "title": "Conceptos Base"
             }
           }
         ],
@@ -252,13 +252,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Taller Full Stack/Intro del proyecto.md",
+                "file": "⚙️ DevOps/🐳 Docker/Conceptos Base/Conceptos Base.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Intro del proyecto"
+              "title": "Outline of Conceptos Base"
             }
           },
           {
@@ -305,41 +305,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03acdcf36f55ea39",
+  "active": "e9fba16f116c34d1",
   "lastOpenFiles": [
-    "📚 Programacion/🐍 Python/Python.md",
-    "⚙️ DevOps/🐳 Docker/Orquestación/Orquestación.md",
+    "Cultura General/Cultura General.md",
+    "🗄️ Acceso a Datos/Acceso a Datos.md",
+    "🌐 Full Stack/Full Stack.md",
+    "📱 Mobile/🤖 Android/Android.md",
+    "☁️ Cloud/Cloud.md",
     "⚙️ DevOps/🐳 Docker/Orquestación/Docker Compose.md",
+    "⚙️ DevOps/🐳 Docker/Conceptos Base/Docker Container.md",
+    "⚙️ DevOps/🐳 Docker/Conceptos Base/Docker Image.md",
+    "⚙️ DevOps/🐳 Docker/Construcción/Construcción.md",
+    "⚙️ DevOps/🐳 Docker/Conceptos Base/Conceptos Base.md",
+    "📚 Programacion/🐍 Python/Formateo.md",
+    "📚 Programacion/☕ Java/POM.md",
+    "📚 Programacion/☕ Java/Java.md",
+    "📚 Programacion/🐍 Python/Python.md",
+    "📚 Programacion/🐍 Python/Operadores.md",
+    "Taller Full Stack/Intro del proyecto.md",
+    "📚 Programacion/🐍 Python/Type Hints.md",
+    "⚙️ DevOps/🐳 Docker/Orquestación/Orquestación.md",
     "⚙️ DevOps/🐳 Docker/Entorno/Entorno.md",
     "⚙️ DevOps/🐳 Docker/Entorno/Dev vs Prod.md",
     "⚙️ DevOps/🐳 Docker/Entorno/Docker Desktop.md",
     "⚙️ DevOps/🐳 Docker/Entorno/Configuración de Entornos Múltiples (Dev-Prod).md",
     "⚙️ DevOps/🐳 Docker/Ejecución/Ejecución.md",
     "⚙️ DevOps/🐳 Docker/Ejecución/Ciclo de vida del contenedor.md",
-    "⚙️ DevOps/🐳 Docker/Construcción/Construcción.md",
     "⚙️ DevOps/🐳 Docker/Conceptos Base/Red.md",
     "⚙️ DevOps/🐳 Docker/Construcción/Dockerfile.md",
-    "⚙️ DevOps/🐳 Docker/Conceptos Base/Docker Container.md",
-    "⚙️ DevOps/🐳 Docker/Conceptos Base/Conceptos Base.md",
-    "⚙️ DevOps/🐳 Docker/Conceptos Base/Volumen.md",
-    "⚙️ DevOps/🐳 Docker/Conceptos Base/Docker Image.md",
     "⚙️ DevOps/🐳 Docker/Orquestación",
     "⚙️ DevOps/🐳 Docker/Ejecución",
     "⚙️ DevOps/🐳 Docker/Entorno",
-    "⚙️ DevOps/🐳 Docker/Docker.md",
     "⚙️ DevOps/🐳 Docker/Construcción",
     "⚙️ DevOps/🐳 Docker/Conceptos Base",
     "⚙️ DevOps/🐳 Docker",
     "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Unidad 1/space/context.mdb",
-    "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Unidad 2/SENSORES AEMETETE.md",
-    "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Componentes/viewBinding.md",
-    "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Componentes/buildString.md",
-    "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Componentes/_Kotlin.md",
-    "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Componentes/RecyclerView.md",
-    "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Componentes/Preservación del Estado.md",
-    "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Componentes/Modelo de Datos.md",
-    "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Componentes/ListView.md",
-    "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Componentes/Graddle.md",
     "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Unidad 1/space",
     "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Unidad 2",
     "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Unidad 1"

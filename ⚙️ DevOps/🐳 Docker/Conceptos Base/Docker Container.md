@@ -1,46 +1,31 @@
-### ¿Qué es un Docker Container?
-Un **Docker Container** es una **instancia en ejecución** de una Docker Image.
-
-Representa un proceso aislado que se ejecuta con su propio:
-- sistema de archivos
-- red
-- entorno
-
+---
+tags: [docker, contenedores]
+category: DevOps
+related: [[Docker Image]], [[Volumen]], [[Docker Compose]]
 ---
 
-### Características clave
-- Son **efímeros** (pueden crearse y destruirse fácilmente)
-- Se ejecutan como procesos del sistema host
-- Comparten el kernel del sistema operativo
-- Pueden iniciarse, detenerse y eliminarse
+# Docker Container
 
----
+Instancia en ejecución de una [[Docker Image]].
 
-### Ciclo de vida de un contenedor
-1. Se crea a partir de una imagen
-2. Se inicia
-3. Se ejecuta
-4. Se detiene
-5. Puede eliminarse
+## Características
+- **Ephemeros**: Se crean y destruyen fácilmente
+- Comparten el kernel del SO host
+- Aislamiento: sistema de archivos, red, entorno propios
 
----
+## Ciclo de vida
+1. Crear (desde imagen)
+2. Iniciar
+3. Ejecutar
+4. Detener
+5. Eliminar
 
-### Para qué sirve un Docker Container
-- Ejecutar aplicaciones de forma aislada
-- Probar software sin afectar al sistema
-- Ejecutar múltiples servicios en paralelo
-- Simular entornos reales de producción
+## Comandos básicos
+```bash
+docker run nginx           # Crear y ejecutar
+docker ps                  # Ver activos
+docker stop <id>          # Detener
+docker rm <id>            # Eliminar
+```
 
----
-
-### Relación con otros conceptos
-- Se crea a partir de una **Docker Image**
-- Puede usar **volúmenes** para persistir datos
-
----
-
-### Relacionado
-- [[Docker]]
-- [[Docker Image]]
-- [[Docker Volume]]
-- [[Herramientas/Docker/Viejo/Docker Compose]]
+> Ver: [[Docker Image]], [[Volumen]], [[Docker Compose]]

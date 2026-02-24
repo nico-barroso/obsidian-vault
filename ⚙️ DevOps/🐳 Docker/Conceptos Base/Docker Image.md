@@ -1,37 +1,33 @@
-### ¿Qué es una Docker Image?
-Una **Docker Image** es una **plantilla inmutable** que contiene todo lo necesario para ejecutar una aplicación:
-- código
-- dependencias
-- configuración
-- sistema base
-
-Las imágenes **no se ejecutan directamente**; sirven como base para crear contenedores.
-
+---
+tags: [docker, imagenes]
+category: DevOps
+related: [[Docker Container]], [[Dockerfile]]
 ---
 
-### Características clave
-- Son **inmutables** (no cambian una vez creadas)
-- Se construyen por **capas**
-- Se identifican por nombre y tag (`node:18`, `mysql:8.0`)
-- Pueden almacenarse en registros (Docker Hub, privados, etc.)
+# Docker Image
 
----
+Plantilla inmutable que contiene todo para ejecutar una aplicación:
+- Código
+- Dependencias
+- Configuración
+- Sistema base
 
-### Para qué sirve una Docker Image
-- Definir un entorno reproducible
-- Garantizar consistencia entre entornos
-- Compartir aplicaciones fácilmente
-- Servir como base para múltiples contenedores
+## Características
+- **Inmutables**: No cambian una vez creadas
+- **Capas**: Se construyen por capas (layers)
+- **Tags**: `node:18`, `mysql:8.0`
+- **Registro**: Docker Hub o privados
 
----
+## Relación
+- Contenedor = instancia de una imagen
+- Imagen = se crea desde Dockerfile
 
-### Relación con otros conceptos
-- Un **contenedor** es una instancia en ejecución de una imagen
-- Las imágenes se crean normalmente a partir de un **Dockerfile**
+## Comandos
+```bash
+docker build .              # Construir
+docker images              # Listar
+docker pull nginx:latest   # Descargar
+docker rmi <id>            # Eliminar
+```
 
----
-
-### Relacionado
-- [[Docker]]
-- [[Docker Container]]
-- [[Herramientas/Docker/Viejo/Dockerfile]]
+> Ver: [[Docker Container]], [[Dockerfile]]

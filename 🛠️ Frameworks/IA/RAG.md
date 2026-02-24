@@ -1,2 +1,28 @@
-Retrieval Augmented Generation
-Tenemos múltiples documentos (info en txt, pdf, archivos excel etc) esa info se parte en distintos chunks porque la sllms tienen una ventana de contexto diferente. Esos chuncks se pasan en embeddings, una representación numérica así se selecciona justo los vectores que son similares. El retrieval busca que las partes relevantes (los chunks relevantes) sean seleccionadas y se sintetiza 
+---
+tags: [rag, ia, llm]
+category: Frameworks
+related: [[OpenAI API]]
+---
+
+# RAG
+
+**Retrieval Augmented Generation**
+
+Técnica que combina búsqueda de información con generación de texto.
+
+## Funcionamiento
+
+1. **Dividir** documentos en chunks (por límite de contexto)
+2. **Embeddings**: Convertir chunks en vectores numéricos
+3. **Retrieval**: Buscar chunks similares a la query
+4. **Generación**: Enviar contexto + pregunta al LLM
+
+## Uso
+
+```python
+# 1. Crear embeddings de documentos
+# 2. Buscar chunks similares
+# 3. Enviar al LLM con el contexto encontrado
+```
+
+> Ver: [[OpenAI API]]
