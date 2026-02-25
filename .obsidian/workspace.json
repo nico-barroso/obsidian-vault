@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Dev Certificate/02-Core Developer Services/Compute Services/🖥️ EC2 for Developers.md",
+                "file": "🌐 Full Stack/Introducción.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -89,35 +89,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🖥️ EC2 for Developers"
-            }
-          },
-          {
-            "id": "e9fba16f116c34d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚙️ DevOps/🐳 Docker/Conceptos Base/Conceptos Base.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Conceptos Base"
+              "title": "Introducción"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚙️ DevOps/🐳 Docker/Conceptos Base/Conceptos Base.md",
+                "file": "🌐 Full Stack/Introducción.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Conceptos Base"
+              "title": "Outline of Introducción"
             }
           },
           {
@@ -305,18 +281,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9fba16f116c34d1",
+  "active": "53fd0e697e58432e",
   "lastOpenFiles": [
+    "🌐 Full Stack/Introducción.md",
+    "🌐 Full Stack/Full Stack.md",
+    "🌐 Full Stack/Fundamentos API Rest/Fundamentos API Rest.md",
+    "🌐 Full Stack/Autenticación sin estado.md",
+    "⚙️ DevOps/🐳 Docker/Conceptos Base/Conceptos Base.md",
     "Cultura General/Cultura General.md",
     "🗄️ Acceso a Datos/Acceso a Datos.md",
-    "🌐 Full Stack/Full Stack.md",
     "📱 Mobile/🤖 Android/Android.md",
     "☁️ Cloud/Cloud.md",
     "⚙️ DevOps/🐳 Docker/Orquestación/Docker Compose.md",
     "⚙️ DevOps/🐳 Docker/Conceptos Base/Docker Container.md",
     "⚙️ DevOps/🐳 Docker/Conceptos Base/Docker Image.md",
     "⚙️ DevOps/🐳 Docker/Construcción/Construcción.md",
-    "⚙️ DevOps/🐳 Docker/Conceptos Base/Conceptos Base.md",
     "📚 Programacion/🐍 Python/Formateo.md",
     "📚 Programacion/☕ Java/POM.md",
     "📚 Programacion/☕ Java/Java.md",
@@ -330,9 +309,6 @@
     "⚙️ DevOps/🐳 Docker/Entorno/Docker Desktop.md",
     "⚙️ DevOps/🐳 Docker/Entorno/Configuración de Entornos Múltiples (Dev-Prod).md",
     "⚙️ DevOps/🐳 Docker/Ejecución/Ejecución.md",
-    "⚙️ DevOps/🐳 Docker/Ejecución/Ciclo de vida del contenedor.md",
-    "⚙️ DevOps/🐳 Docker/Conceptos Base/Red.md",
-    "⚙️ DevOps/🐳 Docker/Construcción/Dockerfile.md",
     "⚙️ DevOps/🐳 Docker/Orquestación",
     "⚙️ DevOps/🐳 Docker/Ejecución",
     "⚙️ DevOps/🐳 Docker/Entorno",
