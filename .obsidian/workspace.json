@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FastAPI/Pydantic.md",
+                "file": "FastAPI/Filter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pydantic"
+              "title": "Filter"
             }
           }
         ],
@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FastAPI/Pydantic.md",
+                "file": "FastAPI/Filter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pydantic"
+              "title": "Outline of Filter"
             }
           },
           {
@@ -294,8 +294,9 @@
   },
   "active": "979a4e28e4a3a0a3",
   "lastOpenFiles": [
-    "FastAPI/Redoc.md",
     "FastAPI/Pydantic.md",
+    "FastAPI/Filter.md",
+    "FastAPI/Redoc.md",
     "FastAPI/Swagger UI.md",
     "ReactJS/2. Conceptos Básicos/Renderizado en bucle.md",
     "FastAPI",
@@ -324,7 +325,6 @@
     "📚 Programacion/☕ Java/POM.md",
     "📚 Programacion/☕ Java/Java.md",
     "📚 Programacion/🐍 Python/Python.md",
-    "📚 Programacion/🐍 Python/Operadores.md",
     "⚙️ DevOps/🐳 Docker/Orquestación",
     "⚙️ DevOps/🐳 Docker/Ejecución",
     "⚙️ DevOps/🐳 Docker/Entorno",
