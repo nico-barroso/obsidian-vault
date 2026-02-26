@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Introducción"
             }
+          },
+          {
+            "id": "979a4e28e4a3a0a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReactJS/Conceptos clave/Untitled.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReactJS/Introducción.md",
+                "file": "ReactJS/Conceptos clave/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introducción"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -268,10 +292,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03acdcf36f55ea39",
+  "active": "979a4e28e4a3a0a3",
   "lastOpenFiles": [
-    "Auto Scaling Group.md",
     "ReactJS/Introducción.md",
+    "ReactJS/Conceptos clave/Untitled.md",
+    "ReactJS/Conceptos clave",
+    "Auto Scaling Group.md",
     "ReactJS",
     "🌐 Full Stack/Introducción.md",
     "🌐 Full Stack/Full Stack.md",
@@ -296,7 +322,6 @@
     "⚙️ DevOps/🐳 Docker/Orquestación/Orquestación.md",
     "⚙️ DevOps/🐳 Docker/Entorno/Entorno.md",
     "⚙️ DevOps/🐳 Docker/Entorno/Dev vs Prod.md",
-    "⚙️ DevOps/🐳 Docker/Entorno/Docker Desktop.md",
     "⚙️ DevOps/🐳 Docker/Orquestación",
     "⚙️ DevOps/🐳 Docker/Ejecución",
     "⚙️ DevOps/🐳 Docker/Entorno",
@@ -304,7 +329,6 @@
     "⚙️ DevOps/🐳 Docker/Conceptos Base",
     "⚙️ DevOps/🐳 Docker",
     "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Unidad 1/space/context.mdb",
-    "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Unidad 1/space",
-    "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Unidad 2"
+    "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Unidad 1/space"
   ]
 }
