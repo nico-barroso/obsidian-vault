@@ -23,4 +23,18 @@ Escala de siguimeinto de objeticos
 lo mas sencillo
 Escalado simple/escalonado cundos e active una alarma de cloudwatch, añlade 2 unidades
 
-A
+Acciones programatas Anticipa un escalado basado en patrones de uso conocidos (ej en el baclkfriday añadimos 5 mas porque se que va a haber mucha. mas gente. tambien se puede subir la capaicdad minima, la deseada etc
+
+)
+Escalado predictivo: previsión continua de la carga y proigramacion del escalado por adelantado 
+buenas metricas para escalar
+CPUUtilization Utilizacion media de la cpu en tus instancias
+RequestCountPeeTarget para asegurarse de que el numero de peticiones por isntancias EC2 es estable
+Promedio de entrada/salida de red si tu app esta vinculad
+
+Auto Scaling Groups
+Despues de que se produzca una actividad de escalado estaras en periodo de enfriamiento (defecto 300 segundos)
+durante ese periodo el ASFG no lanzara ni terminara instancias adficionaels
+
+
+Politicas de escalado
