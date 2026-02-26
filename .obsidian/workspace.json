@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FastAPI/Redoc.md",
+                "file": "FastAPI/Pydantic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Redoc"
+              "title": "Pydantic"
             }
           }
         ],
@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FastAPI/Redoc.md",
+                "file": "FastAPI/Pydantic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Redoc"
+              "title": "Outline of Pydantic"
             }
           },
           {
@@ -294,8 +294,9 @@
   },
   "active": "979a4e28e4a3a0a3",
   "lastOpenFiles": [
-    "FastAPI/Swagger UI.md",
     "FastAPI/Redoc.md",
+    "FastAPI/Pydantic.md",
+    "FastAPI/Swagger UI.md",
     "ReactJS/2. Conceptos Básicos/Renderizado en bucle.md",
     "FastAPI",
     "ReactJS/1. Introducción/Introducción.md",
@@ -324,7 +325,6 @@
     "📚 Programacion/☕ Java/Java.md",
     "📚 Programacion/🐍 Python/Python.md",
     "📚 Programacion/🐍 Python/Operadores.md",
-    "Taller Full Stack/Intro del proyecto.md",
     "⚙️ DevOps/🐳 Docker/Orquestación",
     "⚙️ DevOps/🐳 Docker/Ejecución",
     "⚙️ DevOps/🐳 Docker/Entorno",
