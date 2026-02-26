@@ -1,0 +1,1 @@
+Nota: no usar indice al recorrer un array, simepre usar id del contenmido porfavor
