@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Auto Scaling Group"
             }
+          },
+          {
+            "id": "e4141bff0399d845",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReactJS/Introducción.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Introducción"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Auto Scaling Group.md",
+                "file": "ReactJS/Introducción.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Auto Scaling Group"
+              "title": "Outline of Introducción"
             }
           },
           {
@@ -244,10 +268,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d1ee264cba16d05",
+  "active": "03acdcf36f55ea39",
   "lastOpenFiles": [
-    "🌐 Full Stack/Introducción.md",
     "Auto Scaling Group.md",
+    "ReactJS/Introducción.md",
+    "ReactJS",
+    "🌐 Full Stack/Introducción.md",
     "🌐 Full Stack/Full Stack.md",
     "🌐 Full Stack/Fundamentos API Rest/Fundamentos API Rest.md",
     "🌐 Full Stack/Autenticación sin estado.md",
@@ -271,7 +297,6 @@
     "⚙️ DevOps/🐳 Docker/Entorno/Entorno.md",
     "⚙️ DevOps/🐳 Docker/Entorno/Dev vs Prod.md",
     "⚙️ DevOps/🐳 Docker/Entorno/Docker Desktop.md",
-    "⚙️ DevOps/🐳 Docker/Entorno/Configuración de Entornos Múltiples (Dev-Prod).md",
     "⚙️ DevOps/🐳 Docker/Orquestación",
     "⚙️ DevOps/🐳 Docker/Ejecución",
     "⚙️ DevOps/🐳 Docker/Entorno",
@@ -280,7 +305,6 @@
     "⚙️ DevOps/🐳 Docker",
     "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Unidad 1/space/context.mdb",
     "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Unidad 1/space",
-    "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Unidad 2",
-    "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Unidad 1"
+    "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Unidad 2"
   ]
 }

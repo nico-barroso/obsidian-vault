@@ -42,4 +42,4 @@ Escalado automático Actualizacion de instancia
 Objetivo actualizar la plantilla de lanzamiento y luego volver a crear todas las instancias ec2
 Para ello podemos utilizar la función nativa de actualizacion de isntancia
 Establece el porcentaje minimo de salud
-Podemos especificar el tiempo de "warming" que es cuanto tiene que estar activa la instancia para que funcione
+Podemos especificar el tiempo de "warming" que es cuanto tiene que estar activa la instancia para que funcioneF
