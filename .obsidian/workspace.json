@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Introducción"
             }
+          },
+          {
+            "id": "3d1ee264cba16d05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Auto Scaling Group.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Auto Scaling Group"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌐 Full Stack/Introducción.md",
+                "file": "Auto Scaling Group.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introducción"
+              "title": "Outline of Auto Scaling Group"
             }
           },
           {
@@ -219,9 +244,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03acdcf36f55ea39",
+  "active": "3d1ee264cba16d05",
   "lastOpenFiles": [
     "🌐 Full Stack/Introducción.md",
+    "Auto Scaling Group.md",
     "🌐 Full Stack/Full Stack.md",
     "🌐 Full Stack/Fundamentos API Rest/Fundamentos API Rest.md",
     "🌐 Full Stack/Autenticación sin estado.md",
@@ -246,7 +272,6 @@
     "⚙️ DevOps/🐳 Docker/Entorno/Dev vs Prod.md",
     "⚙️ DevOps/🐳 Docker/Entorno/Docker Desktop.md",
     "⚙️ DevOps/🐳 Docker/Entorno/Configuración de Entornos Múltiples (Dev-Prod).md",
-    "⚙️ DevOps/🐳 Docker/Ejecución/Ejecución.md",
     "⚙️ DevOps/🐳 Docker/Orquestación",
     "⚙️ DevOps/🐳 Docker/Ejecución",
     "⚙️ DevOps/🐳 Docker/Entorno",
