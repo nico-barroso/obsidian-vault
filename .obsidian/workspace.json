@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReactJS/2. Conceptos Básicos/Untitled.md",
+                "file": "ReactJS/2. Conceptos Básicos/Renderizado en bucle.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Renderizado en bucle"
             }
           }
         ],
@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReactJS/2. Conceptos Básicos/Untitled.md",
+                "file": "ReactJS/2. Conceptos Básicos/Renderizado en bucle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Renderizado en bucle"
             }
           },
           {
@@ -295,7 +295,7 @@
   "active": "979a4e28e4a3a0a3",
   "lastOpenFiles": [
     "ReactJS/1. Introducción/Introducción.md",
-    "ReactJS/2. Conceptos Básicos/Untitled.md",
+    "ReactJS/2. Conceptos Básicos/Renderizado en bucle.md",
     "Untitled",
     "ReactJS/2. Conceptos Básicos",
     "ReactJS/1. Introducción/EsLint.md",
