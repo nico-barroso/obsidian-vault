@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReactJS/Introducción/Introducción.md",
+                "file": "ReactJS/1. Introducción/Introducción.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReactJS/Introducción/Introducción.md",
+                "file": "ReactJS/2. Conceptos Básicos/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Introducción"
+              "title": "Untitled"
             }
           }
         ],
@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReactJS/Introducción/Introducción.md",
+                "file": "ReactJS/2. Conceptos Básicos/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introducción"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -292,13 +292,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03acdcf36f55ea39",
+  "active": "979a4e28e4a3a0a3",
   "lastOpenFiles": [
+    "ReactJS/1. Introducción/Introducción.md",
+    "ReactJS/2. Conceptos Básicos/Untitled.md",
+    "Untitled",
     "ReactJS/2. Conceptos Básicos",
-    "ReactJS/Introducción/EsLint.md",
-    "ReactJS/Introducción/Untitled.md",
-    "ReactJS/Introducción/Introducción.md",
-    "ReactJS/Introducción",
+    "ReactJS/1. Introducción/EsLint.md",
+    "ReactJS/1. Introducción/Untitled.md",
+    "ReactJS/1. Introducción",
     "Auto Scaling Group.md",
     "ReactJS",
     "🌐 Full Stack/Introducción.md",
@@ -327,8 +329,6 @@
     "⚙️ DevOps/🐳 Docker/Entorno",
     "⚙️ DevOps/🐳 Docker/Construcción",
     "⚙️ DevOps/🐳 Docker/Conceptos Base",
-    "⚙️ DevOps/🐳 Docker",
-    "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Unidad 1/space/context.mdb",
-    "📱 Mobile/🤖 Android/Programación Multimedia y Dispositivos Móviles/Unidad 1/space"
+    "⚙️ DevOps/🐳 Docker"
   ]
 }
