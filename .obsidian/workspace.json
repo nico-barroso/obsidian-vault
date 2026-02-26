@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReactJS/2. Conceptos Básicos/Renderizado en bucle.md",
+                "file": "FastAPI/Swagger UI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Renderizado en bucle"
+              "title": "Swagger UI"
             }
           }
         ],
@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReactJS/2. Conceptos Básicos/Renderizado en bucle.md",
+                "file": "FastAPI/Swagger UI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Renderizado en bucle"
+              "title": "Outline of Swagger UI"
             }
           },
           {
@@ -294,8 +294,10 @@
   },
   "active": "979a4e28e4a3a0a3",
   "lastOpenFiles": [
-    "ReactJS/1. Introducción/Introducción.md",
     "ReactJS/2. Conceptos Básicos/Renderizado en bucle.md",
+    "FastAPI/Swagger UI.md",
+    "FastAPI",
+    "ReactJS/1. Introducción/Introducción.md",
     "Untitled",
     "ReactJS/2. Conceptos Básicos",
     "ReactJS/1. Introducción/EsLint.md",
@@ -323,12 +325,10 @@
     "📚 Programacion/🐍 Python/Operadores.md",
     "Taller Full Stack/Intro del proyecto.md",
     "📚 Programacion/🐍 Python/Type Hints.md",
-    "⚙️ DevOps/🐳 Docker/Orquestación/Orquestación.md",
     "⚙️ DevOps/🐳 Docker/Orquestación",
     "⚙️ DevOps/🐳 Docker/Ejecución",
     "⚙️ DevOps/🐳 Docker/Entorno",
     "⚙️ DevOps/🐳 Docker/Construcción",
-    "⚙️ DevOps/🐳 Docker/Conceptos Base",
-    "⚙️ DevOps/🐳 Docker"
+    "⚙️ DevOps/🐳 Docker/Conceptos Base"
   ]
 }
