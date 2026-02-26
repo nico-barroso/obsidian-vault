@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReactJS/Introducción.md",
+                "file": "ReactJS/Introducción/Introducción.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,8 +85,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReactJS/Conceptos clave/Untitled.md",
-                "mode": "preview",
+                "file": "ReactJS/Introducción/Introducción.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Introducción"
             }
           }
         ],
@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReactJS/Conceptos clave/Untitled.md",
+                "file": "ReactJS/Introducción/Introducción.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Introducción"
             }
           },
           {
@@ -292,11 +292,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "979a4e28e4a3a0a3",
+  "active": "03acdcf36f55ea39",
   "lastOpenFiles": [
-    "ReactJS/Introducción.md",
-    "ReactJS/Conceptos clave/Untitled.md",
-    "ReactJS/Conceptos clave",
+    "ReactJS/2. Conceptos Básicos",
+    "ReactJS/Introducción/EsLint.md",
+    "ReactJS/Introducción/Untitled.md",
+    "ReactJS/Introducción/Introducción.md",
+    "ReactJS/Introducción",
     "Auto Scaling Group.md",
     "ReactJS",
     "🌐 Full Stack/Introducción.md",
@@ -320,8 +322,6 @@
     "Taller Full Stack/Intro del proyecto.md",
     "📚 Programacion/🐍 Python/Type Hints.md",
     "⚙️ DevOps/🐳 Docker/Orquestación/Orquestación.md",
-    "⚙️ DevOps/🐳 Docker/Entorno/Entorno.md",
-    "⚙️ DevOps/🐳 Docker/Entorno/Dev vs Prod.md",
     "⚙️ DevOps/🐳 Docker/Orquestación",
     "⚙️ DevOps/🐳 Docker/Ejecución",
     "⚙️ DevOps/🐳 Docker/Entorno",
