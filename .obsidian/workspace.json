@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FastAPI/Swagger UI.md",
+                "file": "FastAPI/Redoc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Swagger UI"
+              "title": "Redoc"
             }
           }
         ],
@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FastAPI/Swagger UI.md",
+                "file": "FastAPI/Redoc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Swagger UI"
+              "title": "Outline of Redoc"
             }
           },
           {
@@ -294,8 +294,9 @@
   },
   "active": "979a4e28e4a3a0a3",
   "lastOpenFiles": [
-    "ReactJS/2. Conceptos Básicos/Renderizado en bucle.md",
     "FastAPI/Swagger UI.md",
+    "FastAPI/Redoc.md",
+    "ReactJS/2. Conceptos Básicos/Renderizado en bucle.md",
     "FastAPI",
     "ReactJS/1. Introducción/Introducción.md",
     "Untitled",
@@ -324,7 +325,6 @@
     "📚 Programacion/🐍 Python/Python.md",
     "📚 Programacion/🐍 Python/Operadores.md",
     "Taller Full Stack/Intro del proyecto.md",
-    "📚 Programacion/🐍 Python/Type Hints.md",
     "⚙️ DevOps/🐳 Docker/Orquestación",
     "⚙️ DevOps/🐳 Docker/Ejecución",
     "⚙️ DevOps/🐳 Docker/Entorno",
