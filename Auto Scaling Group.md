@@ -17,3 +17,10 @@ Es posible escalar con cloudwatch
 Una alarma monitoriza una metrica (como la cpu media)
 las metricas como la cpu media se calculan para todas las instancias del asg
 podemos crear politicas de escalado
+
+Auto Scaling Group Politicas de escalado dinamico
+Escala de siguimeinto de objeticos
+lo mas sencillo
+Escalado simple/escalonado cundos e active una alarma de cloudwatch, añlade 2 unidades
+
+A
